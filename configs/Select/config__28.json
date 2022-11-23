@@ -1,0 +1,26 @@
+{
+  "selectionColor": "#00FFFF",
+  "selectionMode": "partial",
+  "enableByDefault": true,
+  "allowExport": false,
+  "includeRuntimeLayers": true,
+  "geometryTypes": [
+    "POINT",
+    "POLYLINE",
+    "POLYGON"
+  ],
+  "layerState": {
+    "a5870fa1835b4ebda827a4efc503237b": {
+      "selected": true
+    },
+    "ddbca96a566d43e780f2a436cf05e5dc": {
+      "selected": true
+    },
+    "5cebb5b25cfe455bb6513dc54056d44e": {
+      "selected": false
+    },
+    "0aa5c8044b1f4b73ad13c963fe88be7e": {
+      "selected": true
+    }
+  }
+}
